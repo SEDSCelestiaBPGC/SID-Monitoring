@@ -1,1 +1,3 @@
 # SID-Monitoring
+The ionosphere is ionised by the UV rays of the sun & is strongest during the day. Very Low Frequency (VLF) radio waves reflect quite well of the underside of this region(3-30kHz). This has a daily cycle where it peaks from sunrise to noon & wanes till sunset. During a solar flare event, large amount of X-ray radiation is generated; this causes a sudden spike in the levels of VLF radio waves emitted. The effect on the received VLF radio signal is for its' strength to quickly become greater, then gradually return to normal. Monitoring the VLF signal provides a way to indirectly detect Solar Flare activity on the sun and its direct effect on the propagation of radio waves by the Ionosphere.
+
